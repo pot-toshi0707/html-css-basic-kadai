@@ -1,7 +1,10 @@
+html {
+  font-size: 20px;
+  text-align: center;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 1rem=20px;
-  text-align: center;
 }
 
 .blue {
@@ -24,7 +27,7 @@ h1 {
 
 }
 
-#basic div {
+#basic p {
   font-weight: bold;
 }
 
